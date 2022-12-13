@@ -20,7 +20,6 @@ If you use the executable "SimpleJavaCalculator.jar" file and that doesn't work,
 ```shell
 java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 ```
-
 ## 💡 Author
 
 - **[kALASA Ivan](https://github.com/KALASA-IVAN)**
